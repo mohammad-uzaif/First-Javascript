@@ -14,3 +14,9 @@
 3]-Lightweight & Dynamic – Variables, functions, and objects can be created and changed while the program is running.
 4]-Core of Web Development – Along with HTML (structure) and CSS (style), JavaScript is the 3rd pillar of web development.
 $notes :✅ In short: JavaScript = The brain of the website (logic + interactivity).
+#what is a script :
+>a small piece of code written to automate tasks or add functionality to a program.
+----------------------
+#global scope
+#function scoped
+#block scope
