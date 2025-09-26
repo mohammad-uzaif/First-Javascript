@@ -1,0 +1,16 @@
+#javaScript :
+-high level
+-interpreted programming language
+#javaScript used :
+>to make website
+-interactive
+-dynamic
+-user-friendly
+#interpreted :
+>An interpreter reads the code line by line and executes immediately. slower to compiledbut easier to test and debug and run
+#Key Points About JavaScript :
+1]-Scripting Language – JavaScript is mainly used to add logic, interactivity, and behavior to web pages.
+2]-Client-Side Execution – Runs directly in the user’s browser (no need for compilation like C++ or Java).
+3]-Lightweight & Dynamic – Variables, functions, and objects can be created and changed while the program is running.
+4]-Core of Web Development – Along with HTML (structure) and CSS (style), JavaScript is the 3rd pillar of web development.
+$notes :✅ In short: JavaScript = The brain of the website (logic + interactivity).
