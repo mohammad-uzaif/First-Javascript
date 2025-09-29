@@ -1,1 +1,37 @@
 Memory management:-
+✨ JavaScript Memory Management – Simplified
+
+When we write code, our programs need memory to store data, variables, and objects. JavaScript automatically handles this through a process called Garbage Collection, but understanding it helps us write efficient code.
+
+🔹 How Memory Works in JS:
+
+Memory Allocation – When you create a variable, object, or function, JS allocates memory.
+
+let user = { name: "Uzaif" }; // memory allocated
+
+
+Memory Usage – While the program runs, memory is used to store values and references.
+
+Garbage Collection – If nothing references a value anymore, the JS engine automatically frees it.
+
+user = null; // previous object becomes garbage
+
+
+🔹 Common Memory Issues:
+
+Memory Leaks happen when we forget to release references (e.g., unused event listeners, global variables).
+
+Storing too many unused objects increases heap memory, slowing performance.
+
+🔹 Best Practices for Developers:
+
+Use let/const (not var) to limit variable scope.
+
+Remove event listeners when no longer needed.
+
+Avoid keeping unnecessary global variables.
+
+Use tools like Chrome DevTools → Memory tab to detect leaks.
+
+💡 Takeaway:
+JS does memory management for us, but writing clean, optimized code ensures our apps stay fast and efficient 🚀.
