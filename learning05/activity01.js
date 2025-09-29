@@ -18,4 +18,7 @@ var x = 5;
 var x = 78;
 //it will run = which bad move , and var is only that done that
 //re-assignment is possible, re definition is posssible
+// not bloked scoped
+//function scoped
 
+// after 2015 es6 me let and const aya 
